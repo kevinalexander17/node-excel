@@ -1,0 +1,17 @@
+{
+  "name": "excel-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "xlsx": "^0.16.9",
+    "yargs": "^16.2.0"
+  }
+}
